@@ -1,4 +1,4 @@
-# Check-Numbers-Game
+# Check Numbers
 
 INTRODUCTION
 The game is based on our knowledge of maths with a lot of entertainment and fun. The game will help the children to develop their basic knowledge of maths. It can be played by any individual. It will provide an interactive and easy way to explore about numbers. This game will be fun and will entertain you throughout the journey. 
