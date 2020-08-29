@@ -1,1 +1,1 @@
-# Check-Number-10-Game
+# Check-Numbers-Game
