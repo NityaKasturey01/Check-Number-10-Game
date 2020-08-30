@@ -1,3 +1,5 @@
+#Grid containing 1-10 numbers at random position using tkinter
+
 
 
 
