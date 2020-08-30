@@ -1,9 +1,11 @@
+
+
+
 from tkinter import *
 import tkinter as tk
 import random,math
 import numpy as np
 
-# Colours of each tile on the basis of number
 BACKGROUND_COLOR_CELLS = {1: "#f5f5f5", 2: "#e0f2f8", 3: "#b8dbe5",
                          4: "#71b1bd", 5: "#27819f", 6: "#0073b9",
                          7: "#7fa8d7", 8: "#615ea6", 9: "#2f3490",
